@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;Eboard Sidecar Firmware/USB VCP Test.ioc&apos; to &apos;Eboard Sidecar Firmware.ioc&apos;" description="Rename resource &apos;USB VCP Test.ioc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="USB VCP Test.ioc" name="Eboard Sidecar Firmware.ioc" stamp="1610235494545" updateReferences="true"/>
-</session>
