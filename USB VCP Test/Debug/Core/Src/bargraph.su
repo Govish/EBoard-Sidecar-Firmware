@@ -1,0 +1,7 @@
+pindefs.h:11:6:bargraph_output	16	static
+bargraph.c:37:6:bargraph_init	88	static
+bargraph.c:67:6:bargraph_draw_soc	16	static
+bargraph.c:77:10:bargraph_draw_stack_space	8	static
+bargraph.c:81:10:bargraph_animate_stack_space	8	static
+bargraph.c:89:6:animate_bargraph	48	static
+bargraph.c:175:13:draw_bargraph	32	static

@@ -1,0 +1,15 @@
+#ifndef BOARD_LIGHTS_H
+#define BOARD_LIGHTS_H
+
+#include "stm32f4xx_hal.h"
+#include "cmsis_os.h"
+
+//initialize the threads for the headlights and taillights
+void board_lights_init(TIM_HandleTypeDef *h);
+
+//shutdown the headlights gracefully
+void board_lights_shutdown();
+
+uint32_t board_lights_stack_space();
+
+#endif

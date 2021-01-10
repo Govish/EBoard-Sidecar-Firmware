@@ -1,0 +1,12 @@
+buzzer.c:49:6:buzzer_init	48	static
+buzzer.c:64:6:buzz_done_init	8	static
+buzzer.c:65:6:buzz_warn_low	8	static
+buzzer.c:66:6:buzz_warn_critical	8	static
+buzzer.c:67:6:buzz_shutdown	8	static
+buzzer.c:70:10:buzzer_stack_space	8	static
+buzzer.c:76:13:buzzer_thread	16	static
+buzzer.c:109:13:do_buzz_boot_up	8	static
+buzzer.c:127:13:do_buzz_done_init	16	static
+buzzer.c:147:13:do_buzz_warn_low	16	static
+buzzer.c:163:13:do_buzz_warn_critical	16	static
+buzzer.c:174:13:do_buzz_shutdown	8	static

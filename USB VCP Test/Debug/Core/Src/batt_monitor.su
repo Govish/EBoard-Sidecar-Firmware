@@ -1,0 +1,10 @@
+batt_monitor.c:32:20:monitor_init	8	static
+batt_monitor.c:42:6:monitor_start	56	static
+batt_monitor.c:51:6:v_sys_check	72	static
+batt_monitor.c:74:6:monitor_soc_low	24	static
+batt_monitor.c:80:6:monitor_soc_crit	24	static
+batt_monitor.c:86:6:monitor_read_fail	24	static
+batt_monitor.c:93:10:monitor_stack_space	8	static
+batt_monitor.c:96:13:run_monitor	1128	static
+batt_monitor.c:174:17:do_adc_dma	48	static
+batt_monitor.c:198:6:HAL_ADC_ConvCpltCallback	16	static

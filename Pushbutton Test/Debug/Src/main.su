@@ -1,0 +1,8 @@
+state_machine.h:13:6:doStateMachine	32	static
+main.c:82:5:main	8	static
+main.c:159:6:SystemClock_Config	88	static
+main.c:203:13:MX_TIM2_Init	64	static
+main.c:262:13:MX_TIM5_Init	48	static
+main.c:311:13:MX_GPIO_Init	48	static
+main.c:386:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:403:6:Error_Handler	4	static

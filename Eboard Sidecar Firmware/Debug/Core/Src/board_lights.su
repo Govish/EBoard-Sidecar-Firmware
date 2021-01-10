@@ -1,0 +1,11 @@
+board_lights.c:42:6:board_lights_init	88	static
+board_lights.c:74:6:board_lights_shutdown	8	static
+board_lights.c:85:6:board_lights_tim_overflow	16	static
+board_lights.c:91:10:board_lights_stack_space	8	static
+board_lights.c:96:13:run_lights_supervisor	48	static
+board_lights.c:147:13:run_board_lights	16	static
+board_lights.c:175:13:do_lights_out	4	static
+board_lights.c:181:13:do_taillight_only	16	static
+board_lights.c:197:13:do_tail_solid_head	16	static
+board_lights.c:213:13:do_tail_and_head	16	static
+board_lights.c:239:6:HAL_GPIO_EXTI_Callback	24	static
